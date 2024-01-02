@@ -9,3 +9,4 @@
 | [Using Arrays and Collections in TypeScript 5](https://app.pluralsight.com/library/courses/typescript-5-projects-configuring-compiling) | Jill Gundersen        | 2023 | ⭐⭐⭐⭐   | Pluralsight     |
 | [Creating a Type Declaration File in TypeScript](https://app.pluralsight.com/library/courses/typescript-creating-type-declaration-file) | Dan Wellman           | 2023 | ⭐⭐⭐⭐⭐ | Pluralsight     |
 | [Beginner's TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)                                                 | Matt Pocock           | 2023 | ⭐⭐⭐⭐   | TotalTypeScript |
+| [Type Transformations](https://www.totaltypescript.com/workshops/type-transformations)                                                  | Matt Pocock           | 2023 | ⭐⭐⭐⭐⭐ | TotalTypeScript |

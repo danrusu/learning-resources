@@ -4,4 +4,4 @@
 
 | [TypeScript](./TypeScript.md) | [JavaScript](./JavaScript.md) | [Testing](./Testing.md) |
 | ----------------------------- | ----------------------------- | ----------------------- |
-| [Python](./Python.md)         |                               |                         |
+| [Python](./Python.md)         | [Git](./Git.md)               |                         |
